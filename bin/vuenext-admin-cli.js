@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 // console.log("vuenext-admin-cli...")
-
-if(process.argv[0] === '-v' || process.argv[0] === '--version') {
-}
    
 // 定制命令行界面
 const program = require("commander")

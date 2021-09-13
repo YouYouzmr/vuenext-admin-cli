@@ -1,6 +1,6 @@
 {
   "name": "vuenext-admin-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vuenext-admin base project",
   "bin": {
     "vuenext-admin-cli": "./bin/vuenext-admin-cli.js"
@@ -10,7 +10,9 @@
   },
   "keywords": [
     "node",
-    "vuenext"
+    "vuenext",
+    "vue3",
+    "admin"
   ],
   "author": "zmr",
   "license": "ISC",
